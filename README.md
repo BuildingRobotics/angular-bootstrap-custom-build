@@ -3,6 +3,7 @@ We don't need the entire Angular Bootstrap library (https://angular-ui.github.io
 
 ## Components Included
 
-- Tooltip
-- Popover
 - Buttons
+- Modal
+- Popover
+- Tooltip
