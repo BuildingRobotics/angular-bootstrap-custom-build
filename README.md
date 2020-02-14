@@ -7,3 +7,4 @@ We don't need the entire Angular Bootstrap library (https://angular-ui.github.io
 - Modal
 - Popover
 - Tooltip
+- Typeahead
